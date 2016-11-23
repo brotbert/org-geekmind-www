@@ -1,7 +1,10 @@
-Hello World.
+## Features
 
-## Contact
+- too many useless content changes since 2001.
 
-Robert Conrad ([Twitter](https://twitter.com/brotbert)/[GitHub](https://github.com/brotbert)).
+## Say hello
 
-![Robert Conrad](http://www.gravatar.com/avatar/d8ffd54bb384fa66bca7556e8ac1d9dc.png?s=200)
+- [twitter](https://twitter.com/brotbert)
+- [github](https://github.com/brotbert)
+- [keybase](https://keybase.io/robertconrad)
+- [paypal](https://paypal.me/brotbert)
