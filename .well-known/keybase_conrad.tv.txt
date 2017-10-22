@@ -1,0 +1,53 @@
+https://keybase.io/robertconrad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://conrad.tv
+  * I am robertconrad (https://keybase.io/robertconrad) on keybase.
+  * I have a public key ASC8tjnhbccmn2RuK1-qhcPJx0iTtu3VyL_PdOoIoo42vwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010113180c75cedabfde4ba0c361c564f7b0466a6c52e62968b14fd15474c1a207590a",
+      "host": "keybase.io",
+      "kid": "0120bcb639e16dc7269f646e2b5faa85c3c9c74893b6edd5c8bfcf74ea08a28e36bf0a",
+      "uid": "07dfe3a225f73ee43273f7f8b267a600",
+      "username": "robertconrad"
+    },
+    "merkle_root": {
+      "ctime": 1507993077,
+      "hash": "b3b9d6db932c72496ec8a629165567456130b645e945cb932d18590b041d1cb796e30b104c940679326f36a16046542b0e2682d3866f32fac1838de0f1b274b3",
+      "hash_meta": "5a90c1373f721ea68b504d88b5ff87205980b88310ad8562206b27f7ffd42ca5",
+      "seqno": 1577816
+    },
+    "service": {
+      "hostname": "conrad.tv",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507993084,
+  "expire_in": 504576000,
+  "prev": "4f557c367a9b86b0b475a5d20a2c820e7f9a047470e6e5e13f80f3373a607b6a",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvLY54W3HJp9kbitfqoXDycdIk7bt1ci/z3TqCKKONr8Kp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTMxODBjNzVjZWRhYmZkZTRiYTBjMzYxYzU2NGY3YjA0NjZhNmM1MmU2Mjk2OGIxNGZkMTU0NzRjMWEyMDc1OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmNiNjM5ZTE2ZGM3MjY5ZjY0NmUyYjVmYWE4NWMzYzljNzQ4OTNiNmVkZDVjOGJmY2Y3NGVhMDhhMjhlMzZiZjBhIiwidWlkIjoiMDdkZmUzYTIyNWY3M2VlNDMyNzNmN2Y4YjI2N2E2MDAiLCJ1c2VybmFtZSI6InJvYmVydGNvbnJhZCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzk5MzA3NywiaGFzaCI6ImIzYjlkNmRiOTMyYzcyNDk2ZWM4YTYyOTE2NTU2NzQ1NjEzMGI2NDVlOTQ1Y2I5MzJkMTg1OTBiMDQxZDFjYjc5NmUzMGIxMDRjOTQwNjc5MzI2ZjM2YTE2MDQ2NTQyYjBlMjY4MmQzODY2ZjMyZmFjMTgzOGRlMGYxYjI3NGIzIiwiaGFzaF9tZXRhIjoiNWE5MGMxMzczZjcyMWVhNjhiNTA0ZDg4YjVmZjg3MjA1OTgwYjg4MzEwYWQ4NTYyMjA2YjI3ZjdmZmQ0MmNhNSIsInNlcW5vIjoxNTc3ODE2fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvbnJhZC50diIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3OTkzMDg0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjRmNTU3YzM2N2E5Yjg2YjBiNDc1YTVkMjBhMmM4MjBlN2Y5YTA0NzQ3MGU2ZTVlMTNmODBmMzM3M2E2MDdiNmEiLCJzZXFubyI6NTgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA2Fa0+bCh+ho0LD29OZ46nFaXS5HXHQOnleD89u28S+bZvZ5HbFZUCFX91VA33ktf2hKf05sdyw9vdrgTc19YA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDXV2ZARYB2kmXdhCcOxH68jqetdNbHi+dg1QziIQiLeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robertconrad
+

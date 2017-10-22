@@ -6,7 +6,13 @@ RewriteEngine On
 #
 RewriteCond %{HTTP_HOST} uber.space$ [NC,OR]
 RewriteCond %{HTTP_HOST} uberspace.de$ [NC]
-RewriteRule ^ - [F]
+RewriteRule ^ - [F,L]
+
+#
+# conrad.tv: keybase proof
+#
+RewriteCond %{HTTP_HOST} ^conrad.tv$
+RewriteRule ^/.well-known/keybase.txt .well-known/keybase_conrad.tv.txt	[L]
 
 #
 # Redirect to naked domain (remove www. prefix)
