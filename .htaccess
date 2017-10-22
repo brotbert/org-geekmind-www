@@ -1,8 +1,22 @@
 RewriteEngine On
 
+#
+# Deny requests for uber.space / uberspace.de
+# domains
+#
+RewriteCond %{HTTP_HOST} uber.space$ [NC,OR]
+RewriteCond %{HTTP_HOST} uberspace.de$ [NC]
+RewriteRule ^ - [F]
+
+#
+# Redirect to naked domain (remove www. prefix)
+#
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
 RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
+#
+# Ensure requests are served by HTTPS
+#
 RewriteCond %{HTTPS} !=on
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
