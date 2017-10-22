@@ -3,47 +3,48 @@ https://keybase.io/robertconrad
 
 I hereby claim:
 
-  * I am an admin of http://geekmind.org
+  * I am an admin of https://geekmind.org
   * I am robertconrad (https://keybase.io/robertconrad) on keybase.
-  * I have a public key ASBz2e6HWtVYx3P1wsdChPAXTzTo4J9xU-aWUNtTiWkNbQo
+  * I have a public key ASC8tjnhbccmn2RuK1-qhcPJx0iTtu3VyL_PdOoIoo42vwo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "010113180c75cedabfde4ba0c361c564f7b0466a6c52e62968b14fd15474c1a207590a",
-            "host": "keybase.io",
-            "kid": "012073d9ee875ad558c773f5c2c74284f0174f34e8e09f7153e69650db5389690d6d0a",
-            "uid": "07dfe3a225f73ee43273f7f8b267a600",
-            "username": "robertconrad"
-        },
-        "service": {
-            "hostname": "geekmind.org",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "010113180c75cedabfde4ba0c361c564f7b0466a6c52e62968b14fd15474c1a207590a",
+      "host": "keybase.io",
+      "kid": "0120bcb639e16dc7269f646e2b5faa85c3c9c74893b6edd5c8bfcf74ea08a28e36bf0a",
+      "uid": "07dfe3a225f73ee43273f7f8b267a600",
+      "username": "robertconrad"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.17"
-    },
-    "ctime": 1474923937,
-    "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1474923895,
-        "hash": "4353e48fe0b044e424e156a007ad16ec93b50fadbc25320af43f9ccf535a01a71f6467b661f5a53a70d5f36787a8c425b9f0f33cbf5d4ded921e4d2953b92488",
-        "seqno": 653954
+      "ctime": 1507993201,
+      "hash": "b377059c363cebca309b57e3cd16342c5c5f9f72f6cddf8175f6fdee79ff33bb83115e55aec15559f430c24c3a20d5fc87c1b249d5234c46759f4e9ebf3a045a",
+      "hash_meta": "2b5aff3f226b8759ecaf20788b0f70c867d94d17c62075d3ef6e14140ad793cc",
+      "seqno": 1577822
     },
-    "prev": "d00df9b1ce916dc5b1b5d35b72803edd651bc3675a1f1de4f9c6db572e56119b",
-    "seqno": 25,
-    "tag": "signature"
+    "service": {
+      "hostname": "geekmind.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507993207,
+  "expire_in": 504576000,
+  "prev": "883a78bd32dba8b62be7f4ac6b2a91f6abb96ee0215b6be37561b32ad727a009",
+  "seqno": 59,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc9nuh1rVWMdz9cLHQoTwF0806OCfcVPmllDbU4lpDW0Kp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTMxODBjNzVjZWRhYmZkZTRiYTBjMzYxYzU2NGY3YjA0NjZhNmM1MmU2Mjk2OGIxNGZkMTU0NzRjMWEyMDc1OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzNkOWVlODc1YWQ1NThjNzczZjVjMmM3NDI4NGYwMTc0ZjM0ZThlMDlmNzE1M2U2OTY1MGRiNTM4OTY5MGQ2ZDBhIiwidWlkIjoiMDdkZmUzYTIyNWY3M2VlNDMyNzNmN2Y4YjI2N2E2MDAiLCJ1c2VybmFtZSI6InJvYmVydGNvbnJhZCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2Vla21pbmQub3JnIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3NDkyMzkzNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc0OTIzODk1LCJoYXNoIjoiNDM1M2U0OGZlMGIwNDRlNDI0ZTE1NmEwMDdhZDE2ZWM5M2I1MGZhZGJjMjUzMjBhZjQzZjljY2Y1MzVhMDFhNzFmNjQ2N2I2NjFmNWE1M2E3MGQ1ZjM2Nzg3YThjNDI1YjlmMGYzM2NiZjVkNGRlZDkyMWU0ZDI5NTNiOTI0ODgiLCJzZXFubyI6NjUzOTU0fSwicHJldiI6ImQwMGRmOWIxY2U5MTZkYzViMWI1ZDM1YjcyODAzZWRkNjUxYmMzNjc1YTFmMWRlNGY5YzZkYjU3MmU1NjExOWIiLCJzZXFubyI6MjUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAAQFp8J4swlgnAkvbLEFHDfBzG6LH52g0aGKO5wfdj0aLdzKJuAjIY1XTOI5EVerAwkDJbE41YJXJc6+WJZ5SBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMPYJmI4Ql/RYRAbbguGJCjGQ1LTwGvqEcI54jwfDr/Uo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvLY54W3HJp9kbitfqoXDycdIk7bt1ci/z3TqCKKONr8Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTMxODBjNzVjZWRhYmZkZTRiYTBjMzYxYzU2NGY3YjA0NjZhNmM1MmU2Mjk2OGIxNGZkMTU0NzRjMWEyMDc1OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmNiNjM5ZTE2ZGM3MjY5ZjY0NmUyYjVmYWE4NWMzYzljNzQ4OTNiNmVkZDVjOGJmY2Y3NGVhMDhhMjhlMzZiZjBhIiwidWlkIjoiMDdkZmUzYTIyNWY3M2VlNDMyNzNmN2Y4YjI2N2E2MDAiLCJ1c2VybmFtZSI6InJvYmVydGNvbnJhZCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzk5MzIwMSwiaGFzaCI6ImIzNzcwNTljMzYzY2ViY2EzMDliNTdlM2NkMTYzNDJjNWM1ZjlmNzJmNmNkZGY4MTc1ZjZmZGVlNzlmZjMzYmI4MzExNWU1NWFlYzE1NTU5ZjQzMGMyNGMzYTIwZDVmYzg3YzFiMjQ5ZDUyMzRjNDY3NTlmNGU5ZWJmM2EwNDVhIiwiaGFzaF9tZXRhIjoiMmI1YWZmM2YyMjZiODc1OWVjYWYyMDc4OGIwZjcwYzg2N2Q5NGQxN2M2MjA3NWQzZWY2ZTE0MTQwYWQ3OTNjYyIsInNlcW5vIjoxNTc3ODIyfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImdlZWttaW5kLm9yZyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA3OTkzMjA3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6Ijg4M2E3OGJkMzJkYmE4YjYyYmU3ZjRhYzZiMmE5MWY2YWJiOTZlZTAyMTViNmJlMzc1NjFiMzJhZDcyN2EwMDkiLCJzZXFubyI6NTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAqThSX+3rLiWEj5W1kxn/NwKXtOeIAySHuZhpTMABuPn4/yB8u53jRQpfUoDi++NknJPnDXsN4VsF8spdlPtVAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK4Revp1xtRyd2VvYWPrH7jrGevZ2Wbt/2kSfAAbiKo/o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
